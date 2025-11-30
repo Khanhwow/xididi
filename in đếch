@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Trang chính</title>
+</head>
+<body>
+    <h1>Chọn bài học</h1>
+    <ul>
+<li><a href="Tin học Phạm Gia Khánh 29-11-2025/cai dau tien.html">Bài 1</a></li>
+<li><a href="Tin học Phạm Gia Khánh 29-11-2025/cai thu hai.html">Bài 2</a></li>
+        <li><a href="Tin học Phạm Gia Khánh 29-11-2025/cai thu ba.html">Bài 3</a></li>
+        <li><a href="Tin học Phạm Gia Khánh 29-11-2025/tin 11-11-2025.html">Bài 4</a></li>
+    </ul>
+</body>
+</html>
